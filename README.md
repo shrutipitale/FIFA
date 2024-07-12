@@ -1,4 +1,4 @@
-# FIFA-
+# FIFA
 Sports Data Analysis FIFA data to see how to apply EDA and Statistics concepts
 
 ### Exploratory Data Analysis on Player Attributes
@@ -6,6 +6,8 @@ Sports Data Analysis FIFA data to see how to apply EDA and Statistics concepts
 #### Description:
 
 This dataset contains detailed information about football (soccer) players, including their personal details, attributes, and performance metrics. The dataset is useful for analyzing player characteristics, performance trends, and potential growth.
+
+## Kaggle Dataset: https://www.kaggle.com/datasets/mukeshmanral/fifa-data-for-eda-and-stats/data
 
 #### Dataset Columns:
 
